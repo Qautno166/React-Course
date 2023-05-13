@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/react-detect-offline": "^2.4.1"
+  }
+}
